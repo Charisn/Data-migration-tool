@@ -34,8 +34,8 @@ Before using the tool, ensure you have the following dependencies installed:
 
    Edit the source and destination paths in the script:
 
-   SRC_PATH = r'\\'                  # Source path (old server - Also supports local network ip paths.)
-   DEST_PATH = r'\\'                 # Destination path (new server)
+   SRC_PATH = r'\\'                  # Source path (old server - Also supports local network ip paths.) <br/>
+   DEST_PATH = r'\\'                 # Destination path (new server) <br/>
 
    *(Optional)* Customize settings such as transfer rate, sync interval, and retry settings.
 
