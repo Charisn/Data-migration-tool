@@ -1,0 +1,6 @@
+ttkbootstrap
+psutil
+sqlite3
+tkinter
+concurrent.futures
+pillow
