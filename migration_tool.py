@@ -16,8 +16,8 @@ from ttkbootstrap.constants import *
 
 # ------------- User Configurable Variables -------------
 # Paths can be edited here
-SRC_PATH = r'\\'                  # Source path (old live server)
-DEST_PATH = r'\\'                 # Destination path (new live server)
+SRC_PATH = r'\\192.168.123.250\s\Broker\24'                  # Source path (old live server)
+DEST_PATH = r'E:\Broker\24'                 # Destination path (new live server)
 
 DEFAULT_MAX_BYTES_PER_SECOND = 50 * 1024 * 1024  # Defaults to 50 MB/s transfer rate limit
 SYNC_INTERVAL_HOURS = 48                         # Synchronization interval in hours
